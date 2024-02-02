@@ -115,7 +115,7 @@ Rectangle {
         maximumLength: 100
         echoMode: TextInput.Normal
 
-        anchors.topMargin: 233
+        anchors.topMargin: 229
         anchors {
             left: parent.left
             right: parent.right
